@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc -b .",
-    "deploy": "export RIO_CLI_URL=api.a101prod.retter.io && rio d --project-id 2nigcol36 --profile goodman"
+    "deploy": "export RIO_CLI_URL=api.a101prod.retter.io && rio d"
   },
   "keywords": [],
   "author": "",

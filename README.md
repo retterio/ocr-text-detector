@@ -24,3 +24,8 @@ cd YourProjectDirectory
 
 rio deploy --project-id YOUR_PROJECT_ID --profile YOUR_PROFILE_NAME
 ```
+
+# How it works
+```bash
+extractText expects base64 Image as input, responds with extracted image text
+```
